@@ -1,6 +1,5 @@
 # librarymanagement
  
-# Library_management_System
 Library management system using HTML and Python.
 # How to use. 
 <h3>👉Download the zip file from Git Hub..</h3>
